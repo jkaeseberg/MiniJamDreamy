@@ -15,11 +15,11 @@ C:/Users/Jasmine Kaeseberg/Documents/GitHub/MiniJamDreamy/DreamyJam/Dreamy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57788
+65488
 Successfully changed project path to: C:/Users/Jasmine Kaeseberg/Documents/GitHub/MiniJamDreamy/DreamyJam/Dreamy
 C:/Users/Jasmine Kaeseberg/Documents/GitHub/MiniJamDreamy/DreamyJam/Dreamy
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 38.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 38.28 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,62 +35,62 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002298 seconds.
+Registered in 0.002153 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 37.52 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.055 seconds
+- Completed reload, in  1.980 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001016 seconds.
+Registered in 0.000872 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 39.99 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 37.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.989 seconds
+- Completed reload, in  0.958 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 85.4 MB.
 System memory in use after: 85.4 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2250.
-Total: 2.200900 ms (FindLiveObjects: 0.180100 ms CreateObjectMapping: 0.070900 ms MarkObjects: 1.814800 ms  DeleteObjects: 0.133600 ms)
+Total: 2.112400 ms (FindLiveObjects: 0.176700 ms CreateObjectMapping: 0.076800 ms MarkObjects: 1.740400 ms  DeleteObjects: 0.117500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/ZepsStuff
-  artifactKey: Guid(e04aee15896c8c8438d1f953d8af0586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ZepsStuff using Guid(e04aee15896c8c8438d1f953d8af0586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cba0e43d5c8cf537ace949311455824') in 0.008609 seconds
-  Import took 0.011452 seconds .
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4856052512617ee48189cf1d7999900') in 0.007878 seconds
+  Import took 0.010714 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.376026 seconds.
-  path: Assets/ZepsStuff/ZepScene.unity
-  artifactKey: Guid(9b6183f840940e74fbcb499d03efde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ZepsStuff/ZepScene.unity using Guid(9b6183f840940e74fbcb499d03efde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330a5d01c7d37a95b3c4bebd1405a8ce') in 0.014692 seconds
-  Import took 0.017830 seconds .
+  Time since last request: 44.275120 seconds.
+  path: Assets/AmandaStuff
+  artifactKey: Guid(b2932259a66df38489b18127313d5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AmandaStuff using Guid(b2932259a66df38489b18127313d5ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52f8beb8306704aa8e0044422c00fb4') in 0.006641 seconds
+  Import took 0.009430 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000445 seconds.
-  path: Assets/ZepsStuff/ZepScene.unity
-  artifactKey: Guid(9b6183f840940e74fbcb499d03efde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/ZepsStuff/ZepScene.unity using Guid(9b6183f840940e74fbcb499d03efde68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330a5d01c7d37a95b3c4bebd1405a8ce') in 0.003874 seconds
-  Import took 0.007743 seconds .
+  Time since last request: 23.057697 seconds.
+  path: Assets/AmandaStuff/AmandaScene.unity
+  artifactKey: Guid(d903dc9c2c4477748b85d9fc75e267d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AmandaStuff/AmandaScene.unity using Guid(d903dc9c2c4477748b85d9fc75e267d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6830e0e8ded1355b481f027334a95a') in 0.015483 seconds
+  Import took 0.018626 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
